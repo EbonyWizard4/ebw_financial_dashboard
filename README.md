@@ -4,6 +4,9 @@
 Bem-vindo ao curso Next.js App Router! Neste curso interativo gratuito, você aprenderá os principais recursos do Next.js criando um aplicativo da web full-stack.
 
 ## O que estaremos construindo
+
+![imagem do projeto](nextjs-dashboard/public/opengraph-image.png)
+
 Para este curso, construiremos uma versão simplificada do painel financeiro que possui:
 
 - Uma página inicial pública.
@@ -29,4 +32,6 @@ Esta é uma visão geral dos recursos que você aprenderá neste curso:
 - Autenticação : como adicionar autenticação ao seu aplicativo usandoNextAuth.jse Middleware.
 - Metadados : como adicionar metadados e preparar seu aplicativo para compartilhamento social.
 
-https://nextjs.org/learn/dashboard-app
+## Pagina do tutorial do projeto.
+[Aprenda Next.js](https://nextjs.org/learn/dashboard-app)
+
