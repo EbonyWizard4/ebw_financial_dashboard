@@ -32,6 +32,8 @@ Esta é uma visão geral dos recursos que você aprenderá neste curso:
 - Autenticação : como adicionar autenticação ao seu aplicativo usandoNextAuth.jse Middleware.
 - Metadados : como adicionar metadados e preparar seu aplicativo para compartilhamento social.
 
-## Pagina do tutorial do projeto.
-[Aprenda Next.js](https://nextjs.org/learn/dashboard-app)
+## Next.js App Router Course - Starter
 
+This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+
+For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
