@@ -1,9 +1,12 @@
 # ebw_financial_dashboard
 
-## Aprenda Next.js
-Bem-vindo ao curso Next.js App Router! Neste curso interativo gratuito, você aprenderá os principais recursos do Next.js criando um aplicativo da web full-stack.
+## Aprendendo Next.js
+Neste curso interativo gratuito, eu aprenderei os principais recursos do Next.js criando um aplicativo da web full-stack.
 
 ## O que estaremos construindo
+
+![imagem do projeto](./public/opengraph-image.png)
+
 Para este curso, construiremos uma versão simplificada do painel financeiro que possui:
 
 - Uma página inicial pública.
@@ -13,10 +16,10 @@ Para este curso, construiremos uma versão simplificada do painel financeiro que
 
 O painel também terá um banco de dados que o acompanhará, que você configurará em um capítulo posterior .
 
-Ao final do curso, você terá as habilidades essenciais necessárias para começar a construir aplicativos Next.js full-stack.
+Ao final do curso, terei as habilidades essenciais necessárias para começar a construir aplicativos Next.js full-stack.
 
 ## Visão geral
-Esta é uma visão geral dos recursos que você aprenderá neste curso:
+Esta é uma visão geral dos recursos que aprenderei neste curso:
 
 - Estilo : as diferentes maneiras de estilizar seu aplicativo em Next.js.
 - Otimizações : como otimizar imagens, links e fontes.
@@ -29,4 +32,8 @@ Esta é uma visão geral dos recursos que você aprenderá neste curso:
 - Autenticação : como adicionar autenticação ao seu aplicativo usandoNextAuth.jse Middleware.
 - Metadados : como adicionar metadados e preparar seu aplicativo para compartilhamento social.
 
-https://nextjs.org/learn/dashboard-app
+## Curso Next.js App Router - Iniciante
+
+Este é o modelo inicial para o curso Next.js App Router. Ele contém o código inicial do aplicativo de painel.
+
+Para obter mais informações, consulte o [currículo do curso](https://nextjs.org/learn) no site Next.js.
