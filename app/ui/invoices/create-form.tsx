@@ -1,16 +1,21 @@
+import { createInvoices } from '@/app/lib/actions';
 import { CustomerField } from '@/app/lib/definitions';
-import Link from 'next/link';
+import { Button } from '@/app/ui/button';
 import {
   CheckIcon,
   ClockIcon,
   CurrencyDollarIcon,
   UserCircleIcon,
 } from '@heroicons/react/24/outline';
-import { Button } from '@/app/ui/button';
+import Link from 'next/link';
 
-export default function Form({ customers }: { customers: CustomerField[] }) {
+export default function Form({
+  customers,
+}: {
+  customers: CustomerField[]
+}) {
   return (
-    <form>
+    <form action={createInvoices}>
       <div className="rounded-md bg-gray-50 p-4 md:p-6">
         {/* Customer Name */}
         <div className="mb-4">
@@ -42,7 +47,7 @@ export default function Form({ customers }: { customers: CustomerField[] }) {
           <label htmlFor="amount" className="mb-2 block text-sm font-medium">
             Choose an amount
           </label>
-          <div className="relative mt-2 rounded-md">
+          <div className="relative mt-2 rounded-md ">
             <div className="relative">
               <input
                 id="amount"
